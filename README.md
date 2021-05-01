@@ -1,5 +1,31 @@
-### Hi there 👋
+## Danikelle Saraiva 
 
+A girl who love statistics, numbers, technology, art and peoples. 
+
+
+### I study Statistics at Federal University of Ceara and a Intern at TRT7
+
+- 🔭 I’m currently working on Systems Developer
+- 👯 looking to collaborate on communities and Python projects
+- 🌱 currently learning Python for Data Analysis
+- 😄 my pronouns are she/her
+
+
+### Fun facts
+
+- I'm a mother of cat
+- books
+- vampires and wolfs
+
+### Find me 
+
+[Linkedin](https://www.linkedin.com/in/danikelle-s-566b6611a/)
+
+
+[Twitter](https://twitter.com/py_danikelle)
+
+
+[DEV.to](https://dev.to/danikelle_saraiva)
 <!--
 **dnksaraiva/dnksaraiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
