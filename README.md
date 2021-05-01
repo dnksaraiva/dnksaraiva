@@ -5,7 +5,7 @@ A girl who love statistics, numbers, technology, art and peoples.
 
 ### I study Statistics at Federal University of Ceara and a Intern at TRT7
 
-- 🔭 I’m currently working on Systems Developer
+- 🔭 I’m currently working on Systems Support
 - 👯 looking to collaborate on communities and Python projects
 - 🌱 currently learning Python for Data Analysis
 - 😄 my pronouns are she/her
