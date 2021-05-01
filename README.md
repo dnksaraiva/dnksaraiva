@@ -1,6 +1,6 @@
 ## Danikelle Saraiva 
 
-A girl who love statistics, numbers, technology, art and peoples. 
+A girl who love statistics, numbers, technology, cooking, art and peoples. 
 
 
 ### I study Statistics at Federal University of Ceara and a Intern at TRT7
