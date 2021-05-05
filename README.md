@@ -19,13 +19,14 @@ A girl who love statistics, numbers, technology, cooking, art and peoples.
 
 ### Find me 
 
-[Linkedin](https://www.linkedin.com/in/danikelle-s-566b6611a/)
+ - 👩🏼‍💻 [Linkedin](https://www.linkedin.com/in/danikelle-s-566b6611a/)
 
 
-[Twitter](https://twitter.com/py_danikelle)
+ - 💬 [Twitter](https://twitter.com/py_danikelle)
 
 
-[DEV.to](https://dev.to/danikelle_saraiva)
+ - 💻 [DEV.to](https://dev.to/danikelle_saraiva)
+
 <!--
 **dnksaraiva/dnksaraiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
